@@ -102,7 +102,7 @@ From no-code workflows to web dev to clean UI, I'm always exploring, refining, a
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/777777/I-Am-Saksham-Srivastavaa" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/000000/I-Am-Saksham-Srivastavaa" alt="GitHub Contribution Graph" />
 </p>
 
 > 🖤 Black-on-white graph — minimal, visual, and speaks just enough.
